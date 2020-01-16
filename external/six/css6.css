@@ -1,0 +1,19 @@
+body{background-color: #FFFDDA;}
+
+h1.a{color: red;
+    font: bold 30pt Arial;
+    text-decoration: underline;
+    text-align: center;}
+
+p.p1{font: bold 16pt Comic Sans MS;
+    color:blue;
+    }
+
+p.p2{font: 24pt Garamond;
+    text-align:center;
+    text-decoration:line-through;}
+
+h1.b{font-style: italic;
+    font-family:Arial;
+    text-align:center;}
+
