@@ -1,0 +1,14 @@
+body{background-color: #7DC623;}
+
+h1.a{font: 40pt Tahoma;
+    color:blue;
+    text-align: center;}
+
+h1.b{font: 30pt Arial;
+    text-align: center;
+    text-decoration: underline;
+    color: #00782B;}
+
+p{font-size: 24pt;
+    font-style: italic;}
+    
